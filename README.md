@@ -53,6 +53,9 @@ Identify the most and least popular pizzas based on sales.
 MySQL
 Power BI
 
+# DASHBOARD
+
+![pizza sales reports](https://github.com/sumitroy5/Pizza-Sales-Analyst/assets/137485553/6da96c33-ccfe-422d-afa1-5b51bce1578b)
 
 
 
